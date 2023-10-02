@@ -1,0 +1,6 @@
+camel:
+  servlet:
+    mapping:
+      context-path: /api/*
+  springboot:
+    name: MyCamel
